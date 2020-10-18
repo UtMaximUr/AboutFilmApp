@@ -14,7 +14,6 @@ import com.cinematools.aboutfilm.model.data.Film;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 
