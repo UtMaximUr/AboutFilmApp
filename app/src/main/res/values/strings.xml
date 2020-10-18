@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutFilm</string>
+
+    // main fragment
+    <string name="toolbar_title">Главная</string>
+    <string name="header_genres">Жанры</string>
+    <string name="header_films">Фильмы</string>
+
+    // about film fragment
+    <string name="year">Год:\t</string>
+    <string name="rating">Рейтинг:\t</string>
+    <string name="no_preview">Изображение\nне найдено</string>
+    <string name="no_description">Описание отсутствует:(</string>
+    <string name="no_data">Нет данных</string>
+
+    // dialog
+    <string name="ok">Да</string>
+    <string name="cancel">Нет</string>
+    <string name="message_dialog">Вы действительно хотите выйти?</string>
+
+
+</resources>
